@@ -1,1 +1,2 @@
 # H.C.-Andersens-eventyr
+Her findes kode og datasæt brugt i artiklen "Guldet i guldalderen og T’et i GPT. Om H.C. Andersens sociale engagement og sprogmodellernes litterære beredskab" af Jens Bjerring-Hansen og Alexander Conroy. Vi anvender zero-shot classification og GPT-4 til at undersøge det sociale engagement i samtlige af H.C. Andersens eventyr. Excel-filen i repoet er sidste prompt-stikprøve, hvor modellen begrunder valg af økonomisk kategori for de første 300 segmenter. De to CSV-filer er datasæt for de to cases hhv. økonomi og fattigdom.
